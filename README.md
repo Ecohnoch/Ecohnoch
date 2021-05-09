@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Alibaba.
+- 🔭 I’m currently working in Alibaba.
 - 🌱 I’m currently learning K8S and distributed system.
-- 💬 Ask me about computer vision and java development.
-- 📫 How to reach me: chuyuan@ruc.educ.cn.
+- 💬 Be free to ask me anything about computer vision and java.
+- 📫 How to reach me: chuyuan@ruc.edu.cn.
 
-List is noteworthy current projects:
+List below is noteworthy current projects:
 
 * A document system with upload/delete/rename/classify/comment documents: [flask_document_system](https://github.com/Ecohnoch/flask_document_system)
 * A highly available face recognition service software, with a single machine up to 1k+ throughput: [face_service](https://github.com/Face-Recognition-Learning-Group/face_service)
