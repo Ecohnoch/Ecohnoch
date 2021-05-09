@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning K8S and distributed system.
 - 💬 Ask me about computer vision and java development.
 - 📫 How to reach me: chuyuan@ruc.educ.cn.
--->
