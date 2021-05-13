@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 List below is noteworthy current projects:
 
+* [Processing] A highly available face recognition service software, with a single machine up to 1k+ throughput: [face_service](https://github.com/Face-Recognition-Learning-Group/face_service)
 * A document system with upload/delete/rename/classify/comment documents: [flask_document_system](https://github.com/Ecohnoch/flask_document_system)
-* A highly available face recognition service software, with a single machine up to 1k+ throughput: [face_service](https://github.com/Face-Recognition-Learning-Group/face_service)
 * A quick reference book: [Ecohnoch-handbook](https://github.com/Ecohnoch/Ecohnoch-handbook)
 * My Blog: [Ecohnoch.cn](https://github.com/Ecohnoch/Ecohnoch.github.io)
 * A simple Kafka demo for python: [kafka-python-demo](https://github.com/Ecohnoch/kafka-python-demo)
